@@ -1,4 +1,5 @@
-"""Um trabalhador trabalha 40 horas por semana. Escreva um algoritmo que leia o número de horas
+"""
+   Um trabalhador trabalha 40 horas por semana. Escreva um algoritmo que leia o número de horas
    trabalhadas em cada semana de um mês, o salário por hora e escreva o salário total do mês do
    funcionário (considere que o mês possua 4 semanas exatas). Considere que o trabalhador que trabalhar
    mais de 40 horas numa semana, recebe hora extra de 50% nas horas trabalhadas a mais.
